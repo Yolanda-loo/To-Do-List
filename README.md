@@ -44,8 +44,8 @@ You try to delete without selecting a task
 
 
 │
-├── todo_list.py    # Main application code
-├── README.md       # Project documentation
+├── todo_list.py    -Main application code
+├── README.md       -Project documentation
 
 
 Contributing
